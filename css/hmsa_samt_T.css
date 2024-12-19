@@ -356,6 +356,10 @@ img{
     transform: rotate(90deg);
 }
 
+.nav__menu{
+    overflow: hidden;
+}
+
 /* Show menu */
 .show-menu{
     top: 0;
